@@ -9,6 +9,10 @@ body {
 	width: 100vw;
 }
 
+p {
+    color: beige;
+}
+
 .background {
 	height: 100vh;
 	width: 100vw;
@@ -16,8 +20,8 @@ body {
 }
 
 .bird {
-	height: 100px;
-	width: 160px;
+	height: 80px;
+	width: 120px;
 	position: fixed;
 	top: 40vh;
 	left: 30vw;
